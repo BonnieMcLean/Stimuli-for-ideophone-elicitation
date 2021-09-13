@@ -14,7 +14,7 @@ The domains and subdomains we are currently using are as follows. Feel free to s
 |Colour           |nature,human,animal,plant,clothes,cooking                       |
 |Taste            |food,nonfood                                                    |
 |Smell            |nature,human,animal,food,object                                 |                                                         
-|Bodily sensations|pain,illness,temperature,atmosphere,bodily functions,pleasure   |
-|Emotions         |                                                                |
+|Bodily sensation |pain,illness,temperature,atmosphere,bodily functions,pleasure   |
+|Emotion          |                                                                |
 
 
